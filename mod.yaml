@@ -1,0 +1,7 @@
+name: Mr Squishy
+version: 0.1.0
+semantic_version: 0.1.0
+uid: 08df02be-8d97-4983-8084-334ff82c0d52
+description: "Danganronpa 2: Goodbye Despair used a fairly simple squishing formula for trial sprites. This simply applies that to all sprites in Danganronpa: Trigger Happy Havoc"
+applicable_titles: 
+  - DR1
